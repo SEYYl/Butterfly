@@ -16,3 +16,4 @@ var ark_swiper = new Swiper("#ark-swiper-container", {
         pauseOnMouseEnter: true, //鼠标进入停止切换，离开恢复切换
     },
 });
+
